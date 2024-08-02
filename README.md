@@ -1,6 +1,6 @@
 ## Sobre
 
-Este programa baixa imagens com base em uma lista fornecida, que pode ser transferida através de dois arquivos .txt ou um arquivo .xlsm.
+Este programa baixa imagens com base em uma lista fornecida, que pode ser transferida através de dois arquivos .txt ou um arquivo .xlsx.
 
 ## Importante
 
@@ -40,9 +40,7 @@ pip install requests pandas ipython
 Certifique-se de que você tenha um ambiente Python configurado com as bibliotecas acima. 
 Este projeto foi desenvolvido no `Python 3.11.9` utilizando `Jupyter Notebook`, portanto, é recomendável que você também tenha o Jupyter instalado:
 
-## Detalhes ambiente de teste
+## Detalhes do ambiente de teste
 
-- Detalhes do meu ambiente de teste
-
-    requirements.txt
+- Detalhes do meu ambiente de teste em : requirements.txt
 
