@@ -37,11 +37,12 @@ pip install requests pandas ipython
 ```
 ## Importante
 
-Certifique-se de que você tenha um ambiente Python configurado com as bibliotecas acima. Este projeto foi desenvolvido utilizando Jupyter Notebook, portanto, é recomendável que você também tenha o Jupyter instalado:
+Certifique-se de que você tenha um ambiente Python configurado com as bibliotecas acima. 
+Este projeto foi desenvolvido no `Python 3.11.9` utilizando `Jupyter Notebook`, portanto, é recomendável que você também tenha o Jupyter instalado:
 
-## Requirements.txt
+## Detalhes ambiente de teste
 
-- Detalhes de tudo que foi usado
+- Detalhes do meu ambiente de teste
 
     requirements.txt
 
